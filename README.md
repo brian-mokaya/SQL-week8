@@ -13,4 +13,4 @@ To run or import this project:
    - Run `clinicDB.sql` which contains the table structures and sample data.
 
 ## Entity Relationship Diagram (ERD)
-![Clinic ERD](https://example.com/clinic_erd.png)  
+![Clinic ERD]()  
